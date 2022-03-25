@@ -7,7 +7,7 @@
 
 <br/><br/>
  
-<h3>💻 Tech Stack 💻</h3>
+<h3>💻 Studying 💻</h3>
 
 <br/>
 
@@ -18,3 +18,4 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=uiw6unoh&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiw6unoh)](https://github.com/uiw6unoh/github-readme-stats)
