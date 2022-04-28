@@ -16,10 +16,6 @@
 
 <br/><br/>
 
-✨Solved.ac✨ <br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={uiw6unoh})](https://solved.ac/{uiw6unoh})
-
 😎My Stats😎 <br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=uiw6unoh&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiw6unoh)](https://github.com/uiw6unoh/github-readme-stats)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uiw6unoh">
