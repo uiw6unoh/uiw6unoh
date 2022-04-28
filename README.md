@@ -3,6 +3,7 @@
 
 [![Gmail badge](https://img.shields.io/badge/Gmail-F40D12?style=for-the-flat&logo=gmail&logoColor=white&logowidth=&link=mailto:uiw6unoh@naver.com)](mailto:uiw6unoh@naver.com)
 <a href="https://blog.naver.com/uiw6unoh" target="_blank"><img src="https://img.shields.io/badge/Blog-FCF80?style=for-the-flat&logo=blogger&logoColor=white"/></a>
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uiw6unoh">
 
 
 <br/><br/>
@@ -18,4 +19,4 @@
 
 😎My Stats😎 <br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=uiw6unoh&show_icons=true)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uiw6unoh">
+
