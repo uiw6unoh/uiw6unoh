@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=548294&height=250&section=header&text=%20&fontSize=90)
-### Hi, 👋 I'm Youngmin Shin [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuiw6unoh&count_bg=%23FFE2E2&title_bg=%23FFABAB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Hi, 👋 I'm Youngmin Shin [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuiw6unoh&count_bg=%23FFE2E2&title_bg=%23FFABAB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Gmail badge](https://img.shields.io/badge/Gmail-F40D12?style=for-the-flat&logo=gmail&logoColor=white&logowidth=&link=mailto:uiw6unoh@naver.com)](mailto:uiw6unoh@naver.com)
 <a href="https://blog.naver.com/uiw6unoh" target="_blank"><img src="https://img.shields.io/badge/Blog-FCF80?style=for-the-flat&logo=blogger&logoColor=white"/></a>
@@ -17,6 +17,8 @@
 
 <br/><br/>
 
-😎My Stats😎 <br/>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=uiw6unoh&show_icons=true)
+### 😎My Stats😎 <br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=uiw6unoh&show_icons=true) <img align='right'  src="http://mazandi.herokuapp.com/api?handle={uiw6unoh}&theme=cold"/>
+
+
 
