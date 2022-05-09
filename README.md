@@ -18,7 +18,6 @@
 <br/><br/>
 
 ### 😎My Stats😎 <br/>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=uiw6unoh&show_icons=true) <img align='right'  src="http://mazandi.herokuapp.com/api?handle={uiw6unoh}&theme=cold"/>
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=uiw6unoh&show_icons=true)
 
 
