@@ -16,10 +16,9 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiw6unoh)](https://www.acmicpc.net/user/uiw6unoh)
 
 #### ⏲️ Work Stats
-<!-- [![uiw6unoh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uiw6unoh)](https://wakatime.com/@uiw6unoh) -->
+<!--[![uiw6unoh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uiw6unoh)]-->
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 #### 🛠️ Github Stats <br/>
