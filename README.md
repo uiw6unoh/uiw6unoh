@@ -62,6 +62,6 @@ Gradle                   14 mins             ░░░░░░░░░░░�
 #### 🛠️ Github Stats <br/>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uiw6unoh&show_icons=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiw6unoh&layout=compact&exclude_repo=tripplanduck,semiproject_muze">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiw6unoh&layout=compact">
 </p>
 
