@@ -61,7 +61,7 @@ Properties               7 mins              ░░░░░░░░░░░�
 
 #### 🛠️ Github Stats <br/>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uiw6unoh&show_icons=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiw6unoh&layout=compact">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uiw6unoh&show_icons=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uiw6unoh&layout=compact">
 </p>
 
