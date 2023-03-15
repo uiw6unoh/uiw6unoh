@@ -8,14 +8,20 @@
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/uiw6unoh/)](https://github.com/uiw6unoh/)  -->
 
 ## 💬 About me
+<em>
+ 
 - 🌱 I’m currently learning back-end skills
+ 
 - ❤️ I love to code and read
+</em>
 
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-#### 🎖️ Ranking
+---
+### 🎖️ Ranking
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiw6unoh)](https://www.acmicpc.net/user/uiw6unoh)
 
-#### ⏲️ Work Stats
+## ⏲️ My Work Stats
 <!--[![uiw6unoh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uiw6unoh)]-->
 
 <!--START_SECTION:waka-->
@@ -92,7 +98,7 @@ HTML                     1 repo              ██░░░░░░░░░�
  Last Updated on 15/03/2023 11:52:29 UTC
 <!--END_SECTION:waka-->
 
-#### 🛠️ Github Stats <br/>
+### 🛠️ Github Stats <br/>
 <p>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uiw6unoh&show_icons=true&include_all_commits=true">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uiw6unoh&layout=compact">
