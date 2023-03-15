@@ -18,4 +18,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL_CODE_TIME : "False"
           SHOW_PROFILE_VIEWS : "False"
+          SHOW_UPDATED_DATE : "False"
           LOCALE : "ko"
