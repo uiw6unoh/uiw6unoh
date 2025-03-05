@@ -31,6 +31,8 @@
 
 > 📦 255.9 kB Used in GitHub's Storage 
  > 
+> 🏆 52 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -64,13 +66,16 @@ Sunday                   359 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 5 mins         █████████████████████████   98.73 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
