@@ -66,15 +66,13 @@ Sunday                   359 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   1 hr 12 mins        ███████████████████████░░   92.58 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
