@@ -25,7 +25,7 @@
 <!--[![uiw6unoh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uiw6unoh)]-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.78%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -66,15 +66,15 @@ Sunday                   377 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       1 hr 38 mins        ████████████░░░░░░░░░░░░░   46.23 % 
-XAML                     1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.01 % 
-Binary                   40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+C#                       1 hr 16 mins        ███████████░░░░░░░░░░░░░░   44.25 % 
+XAML                     1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   39.96 % 
+Binary                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 
 🔥 Editors: 
-Visual Studio            3 hrs 33 mins       █████████████████████████   100.00 % 
+Visual Studio            2 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
