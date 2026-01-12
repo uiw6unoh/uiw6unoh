@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-uiw6unoh@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uiw6unoh@naver.com)](mailto:uiw6unoh@naver.com) 
 [![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://uiw6unoh.github.io/)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://www.uiw6unoh.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuiw6unoh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fuiw6unoh?color=green&label=hits&size=small)](https://myhits.vercel.app)
 [![wakatime](https://wakatime.com/badge/user/54252e40-b19e-45e1-9ec9-fb1c5a26c628.svg)](https://wakatime.com/@54252e40-b19e-45e1-9ec9-fb1c5a26c628)
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/uiw6unoh/)](https://github.com/uiw6unoh/)  -->
 
