@@ -39,48 +39,6 @@
  > 
 > 🔑 46 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1036 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-🌆 Daytime                2297 commits        ████████████░░░░░░░░░░░░░   46.76 % 
-🌃 Evening                1054 commits        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-🌙 Night                  525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   854 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Tuesday                  714 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Wednesday                880 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Thursday                 908 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Friday                   940 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Saturday                 191 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Sunday                   425 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Other                    1 hr 48 mins        ████████████░░░░░░░░░░░░░   48.81 % 
-Python                   1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   36.77 % 
-HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-
-🔥 Editors: 
-VS Code                  1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   38.03 % 
-Unknown Editor           1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   36.57 % 
-Claude Code              56 mins             ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-
-💻 Operating System: 
-Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
