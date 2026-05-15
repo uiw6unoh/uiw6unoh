@@ -29,24 +29,24 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 396.9 kB Used in GitHub's Storage 
+> 📦 397.0 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 56 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 46 Private Repositories 
+> 🔑 47 Private Repositories 
  > 
 **I Mostly Code in Java** 
 
 ```text
-Java                     17 repos            █████████░░░░░░░░░░░░░░░░   36.17 % 
-Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
