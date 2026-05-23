@@ -39,49 +39,6 @@
  > 
 > 🔑 47 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1037 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-🌆 Daytime                2298 commits        ████████████░░░░░░░░░░░░░   46.76 % 
-🌃 Evening                1054 commits        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-🌙 Night                  525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   854 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Tuesday                  714 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Wednesday                880 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Thursday                 908 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Friday                   942 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Saturday                 191 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Sunday                   425 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   2 hrs 42 mins       ████████████████░░░░░░░░░   64.86 % 
-JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Java                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 5 mins        ███████████████████░░░░░░   74.12 % 
-VS Code                  35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-IntelliJ IDEA            29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-
-💻 Operating System: 
-Mac                      4 hrs 10 mins       █████████████████████████   99.99 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
