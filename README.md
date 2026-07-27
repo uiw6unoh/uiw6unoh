@@ -25,6 +25,8 @@
 <!--[![uiw6unoh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uiw6unoh)]-->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2039%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -66,20 +68,44 @@ Sunday                   428 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   3 hrs 44 mins       █████████████░░░░░░░░░░░░   52.48 % 
-Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-YAML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-HTML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Python                   3 hrs 44 mins       █████████████░░░░░░░░░░░░   50.57 % 
+Other                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+YAML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+HTML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 34 mins       ███████████████████████░░   92.09 % 
-VS Code                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Claude Code              6 hrs 50 mins       ███████████████████████░░   92.38 % 
+VS Code                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-Mac                      6 hrs 8 mins        ██████████████████████░░░   86.01 % 
-Windows                  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Mac                      6 hrs 24 mins       ██████████████████████░░░   86.52 % 
+Windows                  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 24 mins (100.0%)
+
+✍️ 5,967 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 210,107,791 Input Tokens, 366,719 Output Tokens
+
+💵 $635.29 Estimated AI Cost This Week
+
+🧠 20 AI Sessions, 186 AI Prompts
+
+Sonnet                   4,310 lines         ███████████████░░░░░░░░░░   60.63 % 
+Claude                   2,799 lines         ██████████░░░░░░░░░░░░░░░   39.37 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,080 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
