@@ -68,44 +68,43 @@ Sunday                   428 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    4 hrs 50 mins       █████████████░░░░░░░░░░░░   50.89 % 
-Groovy                   1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Java Properties          49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Other                    4 hrs 50 mins       █████████████░░░░░░░░░░░░   50.90 % 
+Groovy                   1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Java Properties          49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 Docker                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 6 mins        ████████████████████████░   95.78 % 
+Claude Code              9 hrs 7 mins        ████████████████████████░   96.05 % 
 IntelliJ IDEA            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      9 hrs 28 mins       █████████████████████████   99.73 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Mac                      9 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 26 mins (99.24%)
+⏱ AI Coding Time: 9 hrs 25 mins (99.18%)
 
 ✍️ 1,036 lines written by AI, 1 lines written by hand (99.9% AI-written)
 
-🔤 3,213,754 Input Tokens, 309,442 Output Tokens
+🔤 3,953,632 Input Tokens, 313,610 Output Tokens
 
-💵 $57.86 Estimated AI Cost This Week
+💵 $55.03 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 246 AI Prompts
+🧠 10 AI Sessions, 251 AI Prompts
 
-Sonnet                   815 lines           ████████████████░░░░░░░░░   63.37 % 
-Claude                   471 lines           █████████░░░░░░░░░░░░░░░░   36.63 % 
+Sonnet                   783 lines           ████████████████░░░░░░░░░   62.74 % 
+Claude                   465 lines           █████████░░░░░░░░░░░░░░░░   37.26 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.9% of written lines came from AI
-📝 Concise Prompter — average 475 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
+📝 Concise Prompter — average 466 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
 🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
