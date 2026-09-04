@@ -25,7 +25,7 @@
 <!--[![uiw6unoh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uiw6unoh)]-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-133%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.83%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,46 +68,46 @@ Sunday                   428 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    5 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.68 % 
-JavaScript               2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Markdown                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Bash                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-YAML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Other                    4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.21 % 
+JavaScript               2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Markdown                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+YAML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 59 mins      ███████████████████████░░   91.06 % 
-VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Codex Vscode             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Claude Code              10 hrs 20 mins      ██████████████████████░░░   89.74 % 
+VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Codex Vscode             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      13 hrs 3 mins       █████████████████████████   99.09 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Mac                      11 hrs 23 mins      █████████████████████████   98.96 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 42 mins (96.4%)
+⏱ AI Coding Time: 10 hrs 59 mins (95.45%)
 
-✍️ 2,973 lines written by AI, 10 lines written by hand (99.66% AI-written)
+✍️ 2,143 lines written by AI, 10 lines written by hand (99.54% AI-written)
 
-🔤 5,837,423 Input Tokens, 443,892 Output Tokens
+🔤 7,657,414 Input Tokens, 420,469 Output Tokens
 
-💵 $61.50 Estimated AI Cost This Week
+💵 $67.81 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 408 AI Prompts
+🧠 11 AI Sessions, 407 AI Prompts
 
-Sonnet                   2,511 lines         ███████████████████░░░░░░   75.41 % 
-Claude                   819 lines           ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Sonnet                   2,020 lines         ████████████████████░░░░░   80.80 % 
+Claude                   480 lines           █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.66% of written lines came from AI
-📝 Concise Prompter — average 357 characters per prompt
-🔁 Iterative Prompter — average 31 prompts per session
-🚀 High AI Trust — 8.37% of changed lines were hand-edited
+🤖 AI-Driven — 99.54% of written lines came from AI
+📝 Concise Prompter — average 407 characters per prompt
+🔁 Iterative Prompter — average 37 prompts per session
+🚀 High AI Trust — 10.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
