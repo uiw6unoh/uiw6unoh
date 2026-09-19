@@ -25,7 +25,7 @@
 <!--[![uiw6unoh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uiw6unoh)]-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.83%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,46 +68,46 @@ Sunday                   428 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 3 hrs 18 mins       █████████████░░░░░░░░░░░░   52.29 % 
-Other                    1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Python                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Python                   1 hr 23 mins        ███████████░░░░░░░░░░░░░░   43.23 % 
+Other                    1 hr 21 mins        ███████████░░░░░░░░░░░░░░   42.30 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 6 mins        ████████████████████░░░░░   80.56 % 
-VS Code                  1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Claude Code              2 hrs 32 mins       ████████████████████░░░░░   79.02 % 
+VS Code                  27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Codex CLI                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+PyCharm                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Mac                      6 hrs 15 mins       █████████████████████████   98.62 % 
-Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Mac                      3 hrs 3 mins        ████████████████████████░   95.37 % 
+Windows                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (89.33%)
+⏱ AI Coding Time: 2 hrs 53 mins (90.06%)
 
-✍️ 850 lines written by AI, 41 lines written by hand (95.4% AI-written)
+✍️ 181 lines written by AI, 70 lines written by hand (72.11% AI-written)
 
-🔤 2,434,457 Input Tokens, 300,414 Output Tokens
+🔤 2,196,855 Input Tokens, 124,261 Output Tokens
 
-💵 $36.96 Estimated AI Cost This Week
+💵 $11.01 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 195 AI Prompts
+🧠 17 AI Sessions, 128 AI Prompts
 
-Sonnet                   795 lines           ███████████████████░░░░░░   74.58 % 
-Claude                   250 lines           ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-GPT                      21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Sonnet                   110 lines           ███████████████░░░░░░░░░░   58.51 % 
+Claude                   53 lines            ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+GPT                      25 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.4% of written lines came from AI
-📄 Detailed Prompter — average 530 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 4.99% of changed lines were hand-edited
+🤖 AI-Driven — 72.11% of written lines came from AI
+📝 Concise Prompter — average 207 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 28.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
