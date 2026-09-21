@@ -68,46 +68,46 @@ Sunday                   428 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   1 hr 26 mins        ███████████░░░░░░░░░░░░░░   44.32 % 
-Other                    1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   41.48 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Python                   1 hr 21 mins        ████████████░░░░░░░░░░░░░   47.81 % 
+Other                    1 hr 1 min          █████████░░░░░░░░░░░░░░░░   36.06 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 32 mins       ███████████████████░░░░░░   77.50 % 
-VS Code                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Codex CLI                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-PyCharm                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Claude Code              2 hrs 12 mins       ███████████████████░░░░░░   77.57 % 
+VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Codex CLI                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+PyCharm                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+IntelliJ IDEA            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Mac                      3 hrs 7 mins        ████████████████████████░   95.46 % 
-Windows                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Mac                      2 hrs 47 mins       ████████████████████████░   97.87 % 
+Windows                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 57 mins (90.25%)
+⏱ AI Coding Time: 2 hrs 37 mins (92.13%)
 
-✍️ 251 lines written by AI, 70 lines written by hand (78.19% AI-written)
+✍️ 251 lines written by AI, 69 lines written by hand (78.44% AI-written)
 
-🔤 2,262,406 Input Tokens, 131,050 Output Tokens
+🔤 1,923,981 Input Tokens, 129,068 Output Tokens
 
-💵 $11.69 Estimated AI Cost This Week
+💵 $10.79 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 131 AI Prompts
+🧠 17 AI Sessions, 113 AI Prompts
 
 Sonnet                   110 lines           ██████████░░░░░░░░░░░░░░░   41.98 % 
 GPT                      99 lines            █████████░░░░░░░░░░░░░░░░   37.79 % 
 Claude                   53 lines            █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.19% of written lines came from AI
-📝 Concise Prompter — average 208 characters per prompt
+🤖 AI-Driven — 78.44% of written lines came from AI
+📝 Concise Prompter — average 211 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 22.02% of changed lines were hand-edited
+🚀 High AI Trust — 21.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
