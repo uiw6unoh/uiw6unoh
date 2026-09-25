@@ -68,41 +68,40 @@ Sunday                   428 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   47 mins             ███████████████████████░░   91.38 % 
-Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Python                   20 mins             ███████████████████████░░   92.70 % 
+Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 🔥 Editors: 
-Claude Code              28 mins             ██████████████░░░░░░░░░░░   54.52 % 
-VS Code                  13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-Codex CLI                10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Claude Code              15 mins             █████████████████░░░░░░░░   68.27 % 
+Codex CLI                6 mins              ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 💻 Operating System: 
-Mac                      45 mins             ██████████████████████░░░   87.21 % 
-Windows                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Mac                      20 mins             ███████████████████████░░   92.55 % 
+Windows                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (89.23%)
+⏱ AI Coding Time: 22 mins (100.0%)
 
-✍️ 113 lines written by AI, 45 lines written by hand (71.52% AI-written)
+✍️ 70 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 849,915 Input Tokens, 50,138 Output Tokens
+🔤 432,661 Input Tokens, 27,644 Output Tokens
 
-💵 $5.47 Estimated AI Cost This Week
+💵 $2.40 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 41 AI Prompts
+🧠 4 AI Sessions, 17 AI Prompts
 
-GPT                      78 lines            ████████████████░░░░░░░░░   62.90 % 
-Sonnet                   46 lines            █████████░░░░░░░░░░░░░░░░   37.10 % 
+GPT                      74 lines            █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.52% of written lines came from AI
-📝 Concise Prompter — average 90 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 27.06% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 152 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
