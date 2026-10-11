@@ -68,33 +68,33 @@ Sunday                   428 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    3 hrs 46 mins       █████████████████████░░░░   83.38 % 
-Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Other                    3 hrs 34 mins       █████████████████████░░░░   82.67 % 
+Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 25 mins       ███████████████████░░░░░░   75.65 % 
-Codex CLI                51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Claude Code              3 hrs 13 mins       ███████████████████░░░░░░   74.61 % 
+Codex CLI                51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 💻 Operating System: 
-Mac                      4 hrs 18 mins       ████████████████████████░   95.28 % 
-Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Mac                      4 hrs 7 mins        ████████████████████████░   95.08 % 
+Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 16 mins (94.63%)
+⏱ AI Coding Time: 4 hrs 5 mins (94.4%)
 
 ✍️ 47 lines written by AI, 153 lines written by hand (23.5% AI-written)
 
-🔤 1,697,784 Input Tokens, 123,244 Output Tokens
+🔤 1,643,880 Input Tokens, 110,332 Output Tokens
 
-💵 $17.94 Estimated AI Cost This Week
+💵 $17.12 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 105 AI Prompts
+🧠 10 AI Sessions, 102 AI Prompts
 
 Opus                     18 lines            ██████████░░░░░░░░░░░░░░░   38.30 % 
 Claude                   18 lines            ██████████░░░░░░░░░░░░░░░   38.30 % 
@@ -102,7 +102,7 @@ GPT                      11 lines            ██████░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 23.5% of written lines came from AI
-📝 Concise Prompter — average 304 characters per prompt
+📝 Concise Prompter — average 311 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🔍 Hands-On Reviewer — 76.5% of changed lines were hand-edited
 ```
