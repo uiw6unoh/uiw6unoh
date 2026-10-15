@@ -25,7 +25,7 @@
 <!--[![uiw6unoh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uiw6unoh)]-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.83%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,46 +68,46 @@ Sunday                   428 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    2 hrs 27 mins       ███████████████████░░░░░░   76.68 % 
-Python                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    1 hr 47 mins        █████████████████░░░░░░░░   69.09 % 
+Python                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-Claude Code              1 hr 40 mins        █████████████░░░░░░░░░░░░   52.01 % 
-Codex CLI                1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   40.32 % 
-VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Codex CLI                1 hr 28 mins        ██████████████░░░░░░░░░░░   56.88 % 
+Claude Code              54 mins             █████████░░░░░░░░░░░░░░░░   34.75 % 
+VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      2 hrs 59 mins       ███████████████████████░░   93.31 % 
-Windows                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Mac                      2 hrs 22 mins       ███████████████████████░░   91.73 % 
+Windows                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 58 mins (92.34%)
+⏱ AI Coding Time: 2 hrs 22 mins (91.66%)
 
-✍️ 47 lines written by AI, 172 lines written by hand (21.46% AI-written)
+✍️ 43 lines written by AI, 172 lines written by hand (20.0% AI-written)
 
-🔤 2,075,355 Input Tokens, 69,795 Output Tokens
+🔤 1,686,069 Input Tokens, 59,318 Output Tokens
 
-💵 $16.75 Estimated AI Cost This Week
+💵 $14.38 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 80 AI Prompts
+🧠 8 AI Sessions, 78 AI Prompts
 
-Opus                     18 lines            ██████████░░░░░░░░░░░░░░░   38.30 % 
-Claude                   18 lines            ██████████░░░░░░░░░░░░░░░   38.30 % 
-GPT                      11 lines            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Opus                     16 lines            █████████░░░░░░░░░░░░░░░░   37.21 % 
+Claude                   16 lines            █████████░░░░░░░░░░░░░░░░   37.21 % 
+GPT                      11 lines            ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.46% of written lines came from AI
-📝 Concise Prompter — average 207 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 78.73% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 20.0% of written lines came from AI
+📝 Concise Prompter — average 186 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 80.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
