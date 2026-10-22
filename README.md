@@ -89,7 +89,3 @@ C#                       2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!--END_SECTION:waka-->
-
-<p>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uiw6unoh&show_icons=true&include_all_commits=true">
-</p>
